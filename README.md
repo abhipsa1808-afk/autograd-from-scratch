@@ -1,5 +1,7 @@
 # minigrad
 
+**Live demo:** https://autograd-from-scratch.streamlit.app
+
 A small deep learning framework written from scratch in NumPy. It has its own automatic differentiation engine, neural network layers, loss functions and optimisers. It trains a real image classifier and matches PyTorch to 15 decimal places at every training step.
 
 No PyTorch or TensorFlow is used inside the framework. PyTorch appears in one script only, as the reference to compare against.
