@@ -1,0 +1,10 @@
+{
+  "torch_version": "2.14.1",
+  "steps": 4690,
+  "minigrad_test_accuracy": 0.8776,
+  "pytorch_test_accuracy": 0.8776,
+  "minigrad_seconds": 2.05,
+  "pytorch_seconds": 1.54,
+  "max_loss_gap_first_100_steps": 4.440892098500626e-16,
+  "max_loss_gap_all_steps": 6.661338147750939e-16
+}
